@@ -1,0 +1,39 @@
+import java.util.Scanner;
+public class Zadatak2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+		double a, b, c;
+		
+		boolean p, q;
+		p = true;
+		q = false;
+		
+			
+		
+		System.out.print("Unesite duzinu stranice a: ");
+		a = sc.nextDouble();
+		System.out.print("Unesite duzinu stranice b: ");
+		b = sc.nextDouble();
+		System.out.print("Unesite duzinu stranice c: ");
+		c = sc.nextDouble();
+		
+		boolean ispravan = true;
+		boolean pozitivneStranice, okejStranice;
+		okejStranice = a < b + c && b < a + c && c < a + b;
+		pozitivneStranice = a > 0 && b > 0 && c > 0;
+		
+		if (!okejStranice) {
+			System.out.println("Svaka stranica mora biti kraca od zbira ostali.");
+			ispravan = false;
+			}
+		if (!pozitivneStranice) {
+			System.out.println("Stranice moraju biti pozitivne.");
+			ispravan = false;
+		}
+		if (ispravan) {
+			double obim = a + b + c;
+			System.out.println("Obim je: " + obim);
+			
+			
+		}

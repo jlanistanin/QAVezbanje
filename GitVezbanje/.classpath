@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Selenium java/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Selenium java/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/animal-sniffer-annotations-1.14 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Desktop/Instalacije/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
